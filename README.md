@@ -5,3 +5,6 @@ This project explores sales data from Bright Coffee Shop in order to understand 
 
 **Objective of the project:**
 The goal of this analysis is to identify key sales trends and uncover opportunities to improve operational efficiency, product stragegy and revenue growth. By examining product performance and time-based sales patterns, the project provides clear recommendations to help Bright Coffee Shop optimise its offerings, strenghthen peak trading periods and address underperfoming areas
+
+**Tools used:**
+Databricks was used to clean data, Miro was used to plan the project, Canva was used to plan the timeline of the project, Excel was used for analysis and data visualisation and lasts powerpoint was used for presentation of the project.
